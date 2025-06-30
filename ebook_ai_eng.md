@@ -112,12 +112,12 @@ Invista em conhecimento e esteja pronto para construir o futuro.
 
 ## 👤 Sobre o Autor
 
-**Seu Nome**
+**Cesar Baggio**
 
 Engenheiro de Software em formação pela [DIO](https://www.dio.me/), apaixonado por Inteligência Artificial e inovação.
 
-- GitHub: [SeuGitHub](https://github.com/SeuUsuario)
-- LinkedIn: [SeuLinkedIn](https://www.linkedin.com/in/seuusuario)
+- GitHub: [Cesar Baggio](https://github.com/cbaggior)
+- LinkedIn: [Cesar Baggio](https://www.linkedin.com/in/cesarbaggio/)
 
 ---
 
